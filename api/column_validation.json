@@ -1,0 +1,275 @@
+{
+    "name": {
+        "Safe Harbour Category": "name"
+    },
+    "patientname": {
+        "Safe Harbour Category": "name"
+    },
+    "firstandlastname": {
+        "Safe Harbour Category": "name"
+    },
+    "firstname": {
+        "Safe Harbour Category": "name"
+    },
+    "middlename": {
+        "Safe Harbour Category": "name"
+    },
+    "middleinitial": {
+        "Safe Harbour Category": "name"
+    },
+    "lastname": {
+        "Safe Harbour Category": "name"
+    },
+    "familyname": {
+        "Safe Harbour Category": "name"
+    },
+    "fullname": {
+        "Safe Harbour Category": "name"
+    },
+    "surname": {
+        "Safe Harbour Category": "name"
+    },
+    "maidenname": {
+        "Safe Harbour Category": "name"
+    },
+    "givenname": {
+        "Safe Harbour Category": "name"
+    },
+    "birthdate": {
+        "Safe Harbour Category": "date"
+    },
+    "birthday": {
+        "Safe Harbour Category": "date"
+    },
+    "born": {
+        "Safe Harbour Category": "date"
+    },
+    "dateofbirth": {
+        "Safe Harbour Category": "date"
+    },
+    "dob": {
+        "Safe Harbour Category": "date"
+    },
+    "bornon": {
+        "Safe Harbour Category": "date"
+    },
+    "deathdate": {
+        "Safe Harbour Category": "date"
+    },
+    "admissiondate": {
+        "Safe Harbour Category": "date"
+    },
+    "dischargedate": {
+        "Safe Harbour Category": "date"
+    },
+    "surgerydate": {
+        "Safe Harbour Category": "date"
+    },
+    "age": {
+        "Safe Harbour Category": "age"
+    },
+    "city": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "town": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "county": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "precinct": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "subdivision": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "zip": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "zipcode": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "postalcode": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "postcode": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "street": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "streetaddress": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "address": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "streetaddress2": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "address2": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "latitude": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "longitude": {
+        "Safe Harbour Category": "geographic subdivision"
+    },
+    "phone": {
+        "Safe Harbour Category": "phone"
+    },
+    "phone1": {
+        "Safe Harbour Category": "phone"
+    },
+    "phone2": {
+        "Safe Harbour Category": "phone"
+    },
+    "phonenumber": {
+        "Safe Harbour Category": "phone"
+    },
+    "cell": {
+        "Safe Harbour Category": "phone"
+    },
+    "cellnumber": {
+        "Safe Harbour Category": "phone"
+    },
+    "mobilephonenumber": {
+        "Safe Harbour Category": "phone"
+    },
+    "mobilephone": {
+        "Safe Harbour Category": "phone"
+    },
+    "mobile": {
+        "Safe Harbour Category": "phone"
+    },
+    "homephone": {
+        "Safe Harbour Category": "phone"
+    },
+    "homephonenumber": {
+        "Safe Harbour Category": "phone"
+    },
+    "workphone": {
+        "Safe Harbour Category": "phone"
+    },
+    "workphonenumber": {
+        "Safe Harbour Category": "phone"
+    },
+    "fax": {
+        "Safe Harbour Category": "fax"
+    },
+    "faxnumber": {
+        "Safe Harbour Category": "fax"
+    },
+    "email": {
+        "Safe Harbour Category": "email"
+    },
+    "emailaddress": {
+        "Safe Harbour Category": "email"
+    },
+    "ssn": {
+        "Safe Harbour Category": "ssn"
+    },
+    "socialsecurity": {
+        "Safe Harbour Category": "ssn"
+    },
+    "socialsecuritynumber": {
+        "Safe Harbour Category": "ssn"
+    },
+    "mrn": {
+        "Safe Harbour Category": "mrn"
+    },
+    "medicalrecord": {
+        "Safe Harbour Category": "mrn"
+    },
+    "medicalrecordnumber": {
+        "Safe Harbour Category": "mrn"
+    },
+    "beneficiarynumber": {
+        "Safe Harbour Category": "beneficiary"
+    },
+    "healthplan": {
+        "Safe Harbour Category": "beneficiary"
+    },
+    "healthplannumber": {
+        "Safe Harbour Category": "beneficiary"
+    },
+    "accountnumber": {
+        "Safe Harbour Category": "account number"
+    },
+    "patientaccount": {
+        "Safe Harbour Category": "account number"
+    },
+    "certificationnumber": {
+        "Safe Harbour Category": "certification/license"
+    },
+    "licensenumber": {
+        "Safe Harbour Category": "certification/license"
+    },
+    "vehicleid": {
+        "Safe Harbour Category": "vehicle identifier"
+    },
+    "licenseplate": {
+        "Safe Harbour Category": "vehicle identifier"
+    },
+    "licenseplatenumber": {
+        "Safe Harbour Category": "vehicle identifier"
+    },
+    "carserialnumber": {
+        "Safe Harbour Category": "vehicle identifier"
+    },
+    "devicenumber": {
+        "Safe Harbour Category": "device identifier"
+    },
+    "deviceid": {
+        "Safe Harbour Category": "device identifier"
+    },
+    "deviceserialnumber": {
+        "Safe Harbour Category": "device identifier"
+    },
+    "url": {
+        "Safe Harbour Category": "url"
+    },
+    "website": {
+        "Safe Harbour Category": "url"
+    },
+    "ipaddress": {
+        "Safe Harbour Category": "ip address"
+    },
+    "ip": {
+        "Safe Harbour Category": "ip address"
+    },
+    "biometricid": {
+        "Safe Harbour Category": "biometric identifier"
+    },
+    "fingerprint": {
+        "Safe Harbour Category": "biometric identifier"
+    },
+    "voiceprint": {
+        "Safe Harbour Category": "biometric identifier"
+    },
+    "photo": {
+        "Safe Harbour Category": "photo"
+    },
+    "image": {
+        "Safe Harbour Category": "photo"
+    },
+    "patientphoto": {
+        "Safe Harbour Category": "photo"
+    },
+    "identifier": {
+        "Safe Harbour Category": "misc"
+    },
+    "patientcode": {
+        "Safe Harbour Category": "misc"
+    },
+    "code": {
+        "Safe Harbour Category": "misc"
+    },
+    "uniqueid": {
+        "Safe Harbour Category": "misc"
+    },
+    "patientid": {
+        "Safe Harbour Category": "misc"
+    }
+}
